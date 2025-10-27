@@ -50,11 +50,7 @@
 <div align="center">
 
 <!-- 分隔线 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -78,11 +74,7 @@
 <div align="center">
 
 <!-- 分隔线 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -115,11 +107,7 @@
 <div align="center">
 
 <!-- 分隔线 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
-</picture>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -146,9 +134,10 @@
 
 **智能语音处理平台**
 
-`Go` `gRPC` `PostgreSQL` `Redis`
+`Go` `Gin`  `RabbitMQ` `PostgreSQL` `Redis` `GPT` `Whisper`
 
-实现高效的语音处理与分析功能
+基于Go特性实现异步高并发音视频转文字平台，集成自研微服务聚合第三方单词工具，使用混合存储数据实现高效查询与持久化存储
+实现对音视频内容语言学习的一体化解决方案
 
 </td>
 <td width="50%">
@@ -166,9 +155,10 @@
 
 **智能记忆学习系统**
 
-`Go` `PostgreSQL` `Redis`
+`Go` `Gin` 
 
-基于艾宾浩斯遗忘曲线的学习平台
+受可理解输入假说（Comprehensible Input Hypothesis）启发开发的微服务
+将VoiceFlow中提取单词集成至墨墨背单词(spaced repetition)进行强语境下词汇的学习
 
 </td>
 </tr>
@@ -191,7 +181,7 @@
 
 `Go` `PostgreSQL` `Redis` `Docker`
 
-支持高并发的图片存储与分享服务
+注重安全隐私保护的私有图片存储与分享服务解决方案
 
 </td>
 <td width="50%">
