@@ -38,13 +38,17 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & 工具
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 开发环境配置
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![yabai](https://img.shields.io/badge/yabai-000000?style=for-the-badge&logo=apple&logoColor=white)
+![sketchybar](https://img.shields.io/badge/sketchybar-000000?style=for-the-badge&logo=apple&logoColor=white)
+![i3wm](https://img.shields.io/badge/i3wm-2E3440?style=for-the-badge&logo=i3&logoColor=white)
 
 </div>
 
