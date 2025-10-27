@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Wentao%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+<!-- 暗色模式 Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Wentao%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&section=header&text=Hi,%20I'm%20Wentao%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Wentao%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+<!-- 暗色模式打字效果 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast" alt="Typing SVG">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/z-wentao"><img src="https://img.shields.io/badge/GitHub-z--wentao-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=z-wentao&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/z-wentao"><img src="https://img.shields.io/badge/GitHub-z--wentao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=z-wentao&color=0969DA&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -38,7 +48,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 分隔线 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</picture>
+
 </div>
 
 <br/>
@@ -46,13 +63,27 @@
 ## 📊 语言统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400"/>
+
+<!-- 暗色模式统计 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=400&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages">
+</picture>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 分隔线 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</picture>
+
 </div>
 
 <br/>
@@ -61,18 +92,35 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=贡献活跃度)
+<!-- 活跃度图表 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=贡献活跃度&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=github-light&hide_border=true&area=true&custom_title=贡献活跃度&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=贡献活跃度" alt="Activity Graph">
+</picture>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=z-wentao&theme=tokyonight&hide_border=true)
+<!-- Streak 统计 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=z-wentao&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=z-wentao&theme=default&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=0969da">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z-wentao&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</picture>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- 分隔线 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/74038585-c71c-4bdb-a5a0-4147f8f15127">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</picture>
+
 </div>
 
 <br/>
@@ -86,7 +134,15 @@
 <td width="50%">
 
 ### 🎤 VoiceFlow
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=voiceflow&theme=tokyonight&hide_border=true)](https://github.com/z-wentao/voiceflow)
+
+<!-- VoiceFlow 项目卡片 -->
+<a href="https://github.com/z-wentao/voiceflow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=voiceflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=voiceflow&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=voiceflow&theme=tokyonight&hide_border=true" alt="VoiceFlow">
+  </picture>
+</a>
 
 **智能语音处理平台**
 
@@ -98,7 +154,15 @@
 <td width="50%">
 
 ### 📚 Maimemo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true)](https://github.com/z-wentao/maimemo)
+
+<!-- Maimemo 项目卡片 -->
+<a href="https://github.com/z-wentao/maimemo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true" alt="Maimemo">
+  </picture>
+</a>
 
 **智能记忆学习系统**
 
@@ -113,7 +177,15 @@
 <td width="50%">
 
 ### 📷 Photoshare
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=photoshare&theme=tokyonight&hide_border=true)](https://github.com/z-wentao/photoshare)
+
+<!-- Photoshare 项目卡片 -->
+<a href="https://github.com/z-wentao/photoshare">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=photoshare&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=photoshare&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=photoshare&theme=tokyonight&hide_border=true" alt="Photoshare">
+  </picture>
+</a>
 
 **照片分享社交平台**
 
@@ -142,5 +214,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<!-- 底部分隔线 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer">
+</picture>
+
 </div>
