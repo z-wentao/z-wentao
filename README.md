@@ -197,6 +197,31 @@
 </td>
 <td width="50%">
 
+### ⚡ Udownloader
+
+<!-- Udownloader 项目卡片 -->
+<a href="https://github.com/z-wentao/Udownloader">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=Udownloader&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=Udownloader&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=Udownloader&theme=tokyonight&hide_border=true" alt="Udownloader">
+  </picture>
+</a>
+
+**高性能多线程下载器**
+
+`Go` `Goroutine` `WaitGroup` `HTTP Range` `yt-dlp`
+
+<br/>
+
+利用Go并发特性实现多线程分块下载，跑满带宽速度。集成yt-dlp支持流媒体平台内容下载，为音频处理项目提供数据采集能力。
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 💡 更多项目
 
 <br/>
@@ -208,6 +233,9 @@
 欢迎访问我的 [GitHub](https://github.com/z-wentao?tab=repositories) 查看更多项目
 
 <br/>
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
