@@ -156,7 +156,7 @@
 ### 📚 Maimemo
 
 <!-- Maimemo 项目卡片 -->
-<a href="https://github.com/z-wentao/maimemo">
+<a href="https://github.com/z-wentao/maimemo-service">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
