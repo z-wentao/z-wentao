@@ -7,12 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Wentao%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header">
 </picture>
 
-<!-- 暗色模式打字效果 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast" alt="Typing SVG">
-</picture>
+<!-- 打字效果 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast" alt="Typing SVG">
 
 <p align="center">
   <a href="https://github.com/z-wentao"><img src="https://img.shields.io/badge/GitHub-z--wentao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
