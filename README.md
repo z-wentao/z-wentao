@@ -65,9 +65,9 @@
 
 <!-- 暗色模式统计 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=400&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=400&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&cache_seconds=1800">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-wentao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&cache_seconds=1800" alt="Top Languages">
 </picture>
 
 </div>
@@ -89,9 +89,9 @@
 
 <!-- 活跃度图表 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=贡献活跃度&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=github-light&hide_border=true&area=true&custom_title=贡献活跃度&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=贡献活跃度" alt="Activity Graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-wentao&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph">
 </picture>
 
 <br/>
@@ -153,9 +153,9 @@
 <!-- Maimemo 项目卡片 -->
 <a href="https://github.com/z-wentao/maimemo-service">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo&theme=tokyonight&hide_border=true" alt="Maimemo">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo-service&theme=default&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=z-wentao&repo=maimemo-service&theme=tokyonight&hide_border=true" alt="Maimemo">
   </picture>
 </a>
 
