@@ -8,7 +8,7 @@
 </picture>
 
 <!-- 打字效果 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=后端开发工程师+%7C+Backend+Developer;微服务架构+%7C+Microservices+Architect;热爱开源+%7C+Open+Source+Enthusiast" alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91;Open+Source+Enthusiast+%7C+%E7%83%AD%E7%88%B1%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA;Lifelong+Learner+%7C+%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%E8%80%85" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/z-wentao"><img src="https://img.shields.io/badge/GitHub-z--wentao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -25,8 +25,13 @@
 
 ### 后端开发
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 脚本语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### 数据库 & 缓存
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,9 +40,11 @@
 
 ### DevOps & 工具
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![yabai](https://img.shields.io/badge/yabai-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -130,10 +137,13 @@
 
 **智能语音处理平台**
 
-`Go` `Gin`  `RabbitMQ` `PostgreSQL` `Redis` `GPT` `Whisper`
+`Go` `Gin` `RabbitMQ` `PostgreSQL` `Redis` `GPT` `Whisper`
 
-基于Go特性实现异步高并发音视频转文字平台，集成自研微服务聚合第三方单词工具，使用混合存储数据实现高效查询与持久化存储
-实现对音视频内容语言学习的一体化解决方案
+<br/>
+
+基于Go特性实现异步高并发音视频转文字平台，集成自研微服务聚合第三方单词工具，使用混合存储数据实现高效查询与持久化存储。
+
+实现对音视频内容语言学习的一体化解决方案。
 
 </td>
 <td width="50%">
@@ -151,10 +161,13 @@
 
 **智能记忆学习系统**
 
-`Go` `Gin` 
+`Go` `Gin`
 
-受可理解输入假说（Comprehensible Input Hypothesis）启发开发的微服务
-将VoiceFlow中提取单词集成至墨墨背单词(spaced repetition)进行强语境下词汇的学习
+<br/>
+
+受可理解输入假说（Comprehensible Input Hypothesis）启发开发的微服务。
+
+将VoiceFlow中提取单词集成至墨墨背单词(spaced repetition)进行强语境下词汇的学习。
 
 </td>
 </tr>
@@ -175,17 +188,22 @@
 
 **照片分享社交平台**
 
-`Go` `PostgreSQL` `Redis` `Docker`
+`Go` `Chi` `PostgreSQL` `Bcrypt` `CSRF` `Docker`
 
-注重安全隐私保护的私有图片存储与分享服务解决方案
+<br/>
+
+替代公有云的注重安全隐私保护的私有相册管理、图片存储与分享服务的解决方案。
 
 </td>
 <td width="50%">
 
 ### 💡 更多项目
+
 <br/>
 
 持续更新中...
+
+<br/>
 
 欢迎访问我的 [GitHub](https://github.com/z-wentao?tab=repositories) 查看更多项目
 
